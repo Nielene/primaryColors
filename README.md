@@ -1,2 +1,0 @@
-# primaryColors
-Created with CodeSandbox
